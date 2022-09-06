@@ -1,0 +1,15 @@
+/Users/chuprinov.d/HW8_2/bin/Debug/net6.0/HW8_2
+/Users/chuprinov.d/HW8_2/bin/Debug/net6.0/HW8_2.deps.json
+/Users/chuprinov.d/HW8_2/bin/Debug/net6.0/HW8_2.runtimeconfig.json
+/Users/chuprinov.d/HW8_2/bin/Debug/net6.0/HW8_2.dll
+/Users/chuprinov.d/HW8_2/bin/Debug/net6.0/HW8_2.pdb
+/Users/chuprinov.d/HW8_2/obj/Debug/net6.0/HW8_2.csproj.AssemblyReference.cache
+/Users/chuprinov.d/HW8_2/obj/Debug/net6.0/HW8_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuprinov.d/HW8_2/obj/Debug/net6.0/HW8_2.AssemblyInfoInputs.cache
+/Users/chuprinov.d/HW8_2/obj/Debug/net6.0/HW8_2.AssemblyInfo.cs
+/Users/chuprinov.d/HW8_2/obj/Debug/net6.0/HW8_2.csproj.CoreCompileInputs.cache
+/Users/chuprinov.d/HW8_2/obj/Debug/net6.0/HW8_2.dll
+/Users/chuprinov.d/HW8_2/obj/Debug/net6.0/refint/HW8_2.dll
+/Users/chuprinov.d/HW8_2/obj/Debug/net6.0/HW8_2.pdb
+/Users/chuprinov.d/HW8_2/obj/Debug/net6.0/HW8_2.genruntimeconfig.cache
+/Users/chuprinov.d/HW8_2/obj/Debug/net6.0/ref/HW8_2.dll
